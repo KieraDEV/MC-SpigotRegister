@@ -6,5 +6,5 @@ Make your dream become a reality, create your own minecraft core version.
 
 
 
-> __Project starts in September__ <
+> __Project starts in September__
 
