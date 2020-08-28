@@ -1,2 +1,10 @@
-# MC Elite Version Source
-Register and open-source your own version of Spigot or Paper (Starting in September)
+# MC Elite Version Source (Beta)
+
+Make your dream become a reality, create your own minecraft core version.
+
+- I've already provided all the main components and strings, what are you waiting for?
+
+
+
+- __Project starts in September__ - 
+
