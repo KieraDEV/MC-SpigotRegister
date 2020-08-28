@@ -16,3 +16,8 @@ MC-ESV is registered under MiteLabs, INC. Copying the; name, authors names, proj
 
 
 // Last Updated: *8/20/20*
+
+# Dependencies;
+
+*The only 2 current dependency / requirement is to have a server or machine (home-host) with (1 GB) available of Memory and able to be compatible with 1.8-1.16.1*
+
