@@ -6,5 +6,5 @@ Make your dream become a reality, create your own minecraft core version.
 
 
 
-> __Project starts in November__
+> __Project starts in April 2021__
 
